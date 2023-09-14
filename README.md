@@ -45,6 +45,8 @@
 
 🔹 [Previsão de cronograma e orçamento do projeto](/README.md#Previsão-de-cronograma-e-orçamento-do-projeto)
 
+🔹 [Objetivo da ONU](/README.md#Qual-objetivo-de-desenvolvimento-sustentável-da-ONU-foi-utilizado-no-projeto)
+
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
