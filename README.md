@@ -3,37 +3,35 @@
 ## Status do Projeto: ⚠️ Espera
 
 ## Tópicos
-🔹 Descrição do projeto 
+🔹 [Descrição do projeto](/README.md#)
 
-🔹 Funcionalidades
+🔹 [Funcionalidades](/README.md#)
 
-🔹 Distribuição
+🔹 [Distribuição](/README.md#)
 
-🔹 Pré-requisitos
+🔹 [Pré-requisitos](/README.md#)
 
-🔹 Como rodar a aplicação
+🔹 [Como rodar a aplicação](/README.md#)
 
-🔹 Testes realizados
+🔹 [Testes realizados](/README.md#)
 
-🔹 Banco de Dados
+🔹 [Banco de Dados](/README.md#)
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#)
 
-🔹 Novos Recursos
+🔹 [Novos Recursos](/README.md#)
 
-🔹 Resolvendo problemas
+🔹 [Resolvendo problemas](/README.md#)
 
-🔹 Recursos inseridos 
+🔹 [Recursos inseridos](/README.md#)
 
-🔹 Desenvolvedores/Contribuintes
+🔹 [Desenvolvedores/Contribuintes](/README.md#)
 
-🔹 Informações Extras
+🔹 [Informações Extras](/README.md#)
 
-🔹 Definição do gênero
+🔹 [Definição do gênero](/README.md#Definição do gênero)
 
-🔹 Mecânicas principais
-
-[Teste](/README.md#Mecânicas-principais)
+🔹 [Mecânicas principais](/README.md#Mecânicas-principais)
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
