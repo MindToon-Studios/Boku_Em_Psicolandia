@@ -17,7 +17,7 @@
 
 🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#-[Linguagens,-dependências-e-libs-utilizadas%EF%B8%8F)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#-[Linguagens,-dependências-e-libs-utilizadas%EF%B8%8F📚)
 
 🔹 [Novos Recursos](/README.md#Novos-Recursos)
 
@@ -37,9 +37,9 @@
 
 🔹 [Diferencial do jogo projetado em relação aos jogos da concorrência](/README.md#Diferencial-do-jogo-projetado-em-relação-aos-jogos-da-concorrência)
 
-🔹 [Sistema operacional/plataforma](/README.md#Sistema operacional/plataforma)
+🔹 [Sistema operacional/plataforma](/README.md#Sistema-operacional-ou-plataforma)
 
-🔹 [O público alvo e sua classificação indicativa permitida](/README.md#O público-alvo-e-sua-classificação-indicativa-permitida)
+🔹 [O público alvo e sua classificação indicativa permitida](/README.md#O-público-alvo-e-sua-classificação-indicativa-permitida)
 
 🔹 [Equipe necessária para o desenvolvimento e implementação](/README.md#Equipe-necessária-para-o-desenvolvimento-e-implementação)
 
@@ -114,7 +114,7 @@ O Jogador pode pular, pulo duplo, agachar, correr, soltar uma bola de fogo com u
 ## Diferencial do jogo projetado em relação aos jogos da concorrência
 Puzzle híbrido, jogabilidade diversificada e temas da psicologia.
 
-## Sistema operacional/plataforma
+## Sistema operacional ou plataforma
 SO: Windows 7 para cima e Android.
 <br>Plataforma: Computador e celular. Publicado em: Play Store, Steam.
 
