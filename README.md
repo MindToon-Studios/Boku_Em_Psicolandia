@@ -29,11 +29,11 @@
 
 🔹 Informações Extras
 
+🔹 Definição do gênero
 
-...
+🔹 Mecânicas principais
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
+[Teste](/README.md#Mecânicas-principais)
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
@@ -86,6 +86,12 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 ## Desenvolvedores/Contribuintes:
 A
 
+## Definição do gênero
+Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia
+
+# Mecânicas principais
+O Jogador pode pular, pulo duplo, agachar, correr, soltar uma bola de fogo com um certo power up(incerto) e ir para as 4 direções dentro do caminho definido (não é mundo aberto).
+
 ## Licença
 The MIT License (MIT)
 
@@ -97,15 +103,9 @@ The MIT License (MIT)
 
 
 
-• Titulo;
-Boku Em Psicolândia
-• Uma descrição em uma linha do funcionamento do jogo;
 
-• Definição do seu gênero (se é de ação, ou RPG, por exemplo);
-Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia
 
-• Suas mecânicas principais (um conjunto de regras);
-O Jogador pode pular, pulo duplo, agachar, correr, soltar uma bola de fogo com um certo power up(incerto) e ir para as 4 direções dentro do caminho definido (não é mundo aberto).
+
 
 • Uma breve descrição da história do jogo;
 
