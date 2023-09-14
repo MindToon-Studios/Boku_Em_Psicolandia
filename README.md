@@ -3,19 +3,19 @@
 ## Status do Projeto: ⚠️ Espera
 
 ## Tópicos
-🔹 [Descrição do projeto](/README.md#)
+🔹 [Descrição do projeto](/README.md#Descrição-do-projeto)
 
-🔹 [Funcionalidades](/README.md#)
+🔹 [Funcionalidades](/README.md#Funcionalidades)
 
-🔹 [Distribuição](/README.md#)
+🔹 [Distribuição](/README.md#Distribuição)
 
-🔹 [Pré-requisitos](/README.md#)
+🔹 [Pré-requisitos](/README.md#Pré-requisitos)
 
-🔹 [Como rodar a aplicação](/README.md#)
+🔹 [Como rodar a aplicação](/README.md#Como-rodar-a-aplicação)
 
-🔹 [Testes realizados](/README.md#)
+🔹 [Testes realizados](/README.md#Testes-realizados)
 
-🔹 [Banco de Dados](/README.md#)
+🔹 [Banco de Dados](/README.md#Banco-de-Dados)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#)
 
@@ -25,13 +25,26 @@
 
 🔹 [Recursos inseridos](/README.md#)
 
-🔹 [Desenvolvedores/Contribuintes](/README.md#)
+🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
 
 🔹 [Informações Extras](/README.md#)
 
 🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
 🔹 [Mecânicas principais](/README.md#Mecânicas-principais)
+
+🔹 [Descrição da história do jogo](/README.md#)
+
+🔹 [Diferencial do jogo projetado em relação aos jogos da concorrência](/README.md#)
+
+🔹 [Sistema operacional/plataforma](/README.md#)
+
+🔹 [O público alvo e sua classificação indicativa permitida](/README.md#)
+
+🔹 [Equipe necessária para o desenvolvimento e implementação](/README.md#)
+
+🔹 [Previsão de cronograma e orçamento do projeto](/README.md#)
+
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
@@ -63,11 +76,13 @@ Utilização de imagens e descrição do qeu foi testado.
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+Unity
+C#
+Trello
 
-XML
-...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+Adobe Photoshop
+Krita
 
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
@@ -82,44 +97,41 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-A
+Arthur Atsushi Inoue Iwata<br>
+Daniel Hikaru Hiratuka Kato<br>
+Gabriela Aline Sanches dos Santos<br>
+Guilherme Alexandre de Almeida<br>
+Henrique Miranda Carvalho
 
 ## Definição do gênero
-Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia
+Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia.
 
-# Mecânicas principais
+## Mecânicas principais
 O Jogador pode pular, pulo duplo, agachar, correr, soltar uma bola de fogo com um certo power up(incerto) e ir para as 4 direções dentro do caminho definido (não é mundo aberto).
+
+## Descrição da história do jogo (breve)
+
+## Diferencial do jogo projetado em relação aos jogos da concorrência
+Puzzle híbrido, jogabilidade diversificada e temas da psicologia.
+
+## Sistema operacional/plataforma
+SO: Windows 7 para cima e Android.
+<br>Plataforma: Computador e celular. Publicado em: Play Store, Steam.
+
+## O público alvo e sua classificação indicativa permitida
+Público alvo: 13-21.
+<br>Classificação Indicativa: E10.
+
+## Equipe necessária para o desenvolvimento e implementação
+
+
+## Previsão de cronograma e orçamento do projeto
+
+
+## Qual objetivo de desenvolvimento sustentável da ONU foi utilizado no projeto
+Objetivo 3: Saúde e Bem-estar - Meta 3.4, Nações Unidas: [...] promover a saúde mental e o bem-estar.
 
 ## Licença
 The MIT License (MIT)
 
 ## Copyright ©️ Ano - Titulo do Projeto
-
-
-
-
-
-
-
-
-
-
-
-• Uma breve descrição da história do jogo;
-
-• Diferencial do jogo projetado em relação aos jogos da concorrência;
-Puzzle híbrido, jogabilidade diversificada e temas da psicologia.
-
-• Sistema operacional ou plataforma onde o jogo funcionará e será publicado;
-SO: Windows 7 para cima e Android. Plataforma: Computador e celular. Publicado em: Play Store, Steam.
-
-• O público alvo a ser alcançado e sua classificação indicativa permitida;
-Adolescentes, jovens adultos. Acima de 12 anos.
-
-• Equipe necessária para o desenvolvimento e implementação;
-
-• Uma previsão de cronograma e orçamento do projeto;
-
-
-• Qual objetivo de desenvolvimento sustentável da ONU foi utilizado no projeto.
-Objetivo 3: Saúde e Bem-estar - Meta 3.4, Nações Unidas: [...] promover a saúde mental e o bem-estar.
