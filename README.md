@@ -116,7 +116,8 @@ Puzzle híbrido, jogabilidade diversificada e temas da psicologia.
 
 ## Sistema operacional ou plataforma
 SO: Windows 7 para cima e Android.
-<br>Plataforma: Computador e celular. Publicado em: Play Store, Steam.
+<br>Plataforma: Computador e celular.
+<br>Publicação em: Play Store, Steam.
 
 ## O público alvo e sua classificação indicativa permitida
 Público alvo: 13-21.
