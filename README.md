@@ -17,33 +17,33 @@
 
 🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#-%EF%B8%8F)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#-[Linguagens,-dependências-e-libs-utilizadas%EF%B8%8F)
 
-🔹 [Novos Recursos](/README.md#)
+🔹 [Novos Recursos](/README.md#Novos-Recursos)
 
-🔹 [Resolvendo problemas](/README.md#)
+🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
 
 🔹 [Recursos inseridos](/README.md#Recursos-inseridos-%EF%B8%8F)
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
 
-🔹 [Informações Extras](/README.md#)
+🔹 [Informações Extras](/README.md#Informações-Extras)
 
 🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
 🔹 [Mecânicas principais](/README.md#Mecânicas-principais)
 
-🔹 [Descrição da história do jogo](/README.md#)
+🔹 [Descrição da história do jogo](/README.md#Descrição-da-história-do-jogo)
 
-🔹 [Diferencial do jogo projetado em relação aos jogos da concorrência](/README.md#)
+🔹 [Diferencial do jogo projetado em relação aos jogos da concorrência](/README.md#Diferencial-do-jogo-projetado-em-relação-aos-jogos-da-concorrência)
 
-🔹 [Sistema operacional/plataforma](/README.md#)
+🔹 [Sistema operacional/plataforma](/README.md#Sistema operacional/plataforma)
 
-🔹 [O público alvo e sua classificação indicativa permitida](/README.md#)
+🔹 [O público alvo e sua classificação indicativa permitida](/README.md#O público-alvo-e-sua-classificação-indicativa-permitida)
 
-🔹 [Equipe necessária para o desenvolvimento e implementação](/README.md#)
+🔹 [Equipe necessária para o desenvolvimento e implementação](/README.md#Equipe-necessária-para-o-desenvolvimento-e-implementação)
 
-🔹 [Previsão de cronograma e orçamento do projeto](/README.md#)
+🔹 [Previsão de cronograma e orçamento do projeto](/README.md#Previsão-de-cronograma-e-orçamento-do-projeto)
 
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
