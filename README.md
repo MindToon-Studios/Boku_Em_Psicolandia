@@ -35,15 +35,15 @@
 
 🔹 [Descrição da história do jogo](/README.md#Descrição-da-história-do-jogo)
 
-🔹 [Diferencial do jogo projetado em relação aos jogos da concorrência](/README.md#Diferencial-do-jogo-projetado-em-relação-aos-jogos-da-concorrência)
+🔹 [Diferencial do jogo vs concorrência](/README.md#Diferencial-do-jogo-projetado-em-relação-aos-jogos-da-concorrência)
 
 🔹 [Sistema operacional/plataforma](/README.md#Sistema-operacional-ou-plataforma)
 
-🔹 [O público alvo e sua classificação indicativa permitida](/README.md#O-público-alvo-e-sua-classificação-indicativa-permitida)
+🔹 [Público alvo e classificação indicativa ](/README.md#O-público-alvo-e-sua-classificação-indicativa-permitida)
 
-🔹 [Equipe necessária para o desenvolvimento e implementação](/README.md#Equipe-necessária-para-o-desenvolvimento-e-implementação)
+🔹 [Equipe necessária para o desenvolvimento](/README.md#Equipe-necessária-para-o-desenvolvimento-e-implementação)
 
-🔹 [Previsão de cronograma e orçamento do projeto](/README.md#Previsão-de-cronograma-e-orçamento-do-projeto)
+🔹 [Previsão de cronograma e orçamento](/README.md#Previsão-de-cronograma-e-orçamento-do-projeto)
 
 🔹 [Objetivo da ONU](/README.md#Qual-objetivo-de-desenvolvimento-sustentável-da-ONU-foi-utilizado-no-projeto)
 
