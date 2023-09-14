@@ -15,7 +15,7 @@
 
 🔹 [Testes realizados](/README.md#Testes-realizados)
 
-🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
+🔹 [Banco de Dados](/README.md#Banco-de-Dados)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
@@ -23,7 +23,7 @@
 
 🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
 
-🔹 [Recursos inseridos](/README.md#Recursos-inseridos-%EF%B8%8F)
+🔹 [Recursos inseridos](/README.md#Recursos-inseridos)
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
 
