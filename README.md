@@ -29,7 +29,7 @@
 
 🔹 [Informações Extras](/README.md#)
 
-🔹 [Definição do gênero](/README.md#Definição do gênero)
+🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
 🔹 [Mecânicas principais](/README.md#Mecânicas-principais)
 ## Descrição do projeto
