@@ -17,7 +17,7 @@
 
 🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#Linguagens,-dependências-e-libs-utilizadas-%EF%B8%8F)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#Linguagens-dependências-e-libs-utilizadas-%EF%B8%8F)
 
 🔹 [Novos Recursos](/README.md#Novos-Recursos)
 
@@ -75,7 +75,7 @@ Utilização de imagens e descrição do qeu foi testado.
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
-## Linguagens, dependências e libs utilizadas 📚
+## Linguagens dependências e libs utilizadas 📚
 Unity
 C#
 Trello
