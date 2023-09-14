@@ -17,7 +17,7 @@
 
 🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#Linguagens,-dependências-e-libs-utilizadas-%EF%B8%8F)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#Linguagens-dependências-e-libs-utilizadas-%EF%B8%8F)
 
 🔹 [Novos Recursos](/README.md#Novos-Recursos)
 
