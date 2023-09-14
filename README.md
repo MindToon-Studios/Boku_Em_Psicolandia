@@ -9,7 +9,7 @@
 
 🔹 [Distribuição](/README.md#Distribuição)
 
-🔹 [Pré-requisitos](/README.md#Pré-requisitos)
+🔹 [Pré-requisitos](/README.md#Pré-requisitos-%EF%B8%8F)
 
 🔹 [Como rodar a aplicação](/README.md#Como-rodar-a-aplicação)
 
