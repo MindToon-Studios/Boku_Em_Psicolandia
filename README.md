@@ -15,15 +15,15 @@
 
 🔹 [Testes realizados](/README.md#Testes-realizados)
 
-🔹 [Banco de Dados](/README.md#Banco-de-Dados)
+🔹 [Banco de Dados](/README.md#Banco-de-Dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#)
+🔹 [Linguagens, dependências e libs utilizadas](/README.md#-%EF%B8%8F)
 
 🔹 [Novos Recursos](/README.md#)
 
 🔹 [Resolvendo problemas](/README.md#)
 
-🔹 [Recursos inseridos](/README.md#)
+🔹 [Recursos inseridos](/README.md#Recursos-inseridos-%EF%B8%8F)
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
 
