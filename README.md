@@ -5,7 +5,7 @@
 ## Tópicos
 🔹 [Descrição do projeto](/README.md#Descrição-do-projeto)
 
-🔹 [Funcionalidades](/README.md#Funcionalidades⚙️)
+🔹 [Funcionalidades](/README.md#Funcionalidades-%EF%B8%8F)
 
 🔹 [Distribuição](/README.md#Distribuição)
 
