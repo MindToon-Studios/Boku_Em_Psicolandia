@@ -23,7 +23,7 @@
 
 🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
 
-🔹 [Recursos inseridos](/README.md#Recursos-inseridos)
+🔹 [Recursos inseridos](/README.md#Recursos-de-inseridos)
 
 🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
 
