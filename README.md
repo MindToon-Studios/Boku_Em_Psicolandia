@@ -75,7 +75,7 @@ Utilização de imagens e descrição do qeu foi testado.
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
-## Linguagens, dependencias e libs utilizadas 📚
+## Linguagens, dependências e libs utilizadas 📚
 Unity
 C#
 Trello
