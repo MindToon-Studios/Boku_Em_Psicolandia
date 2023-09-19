@@ -87,9 +87,9 @@ Daniel Domingos Akira de Sá Pimentel Ohata - Orientador
 
 ## Previsão de cronograma e orçamento do projeto
 ### Cronograma
-High Concept - 20/09
-Artigo Científico - 20/09
-Apresentação da Ideia - 20/09
+High Concept - 20/09<br>
+Artigo Científico - 20/09<br>
+Apresentação da Ideia - 20/09<br>
 
 ### Orçamento
 100 horas - Documentação<br>
