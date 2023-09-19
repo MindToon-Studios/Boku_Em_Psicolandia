@@ -5,29 +5,11 @@
 ## Tópicos
 🔹 [Descrição do projeto](/README.md#Descrição-do-projeto)
 
-🔹 [Funcionalidades](/README.md#Funcionalidades-%EF%B8%8F)
-
 🔹 [Distribuição](/README.md#Distribuição)
-
-🔹 [Pré-requisitos](/README.md#Pré-requisitos-%EF%B8%8F)
-
-🔹 [Como rodar a aplicação](/README.md#Como-rodar-a-aplicação)
-
-🔹 [Testes realizados](/README.md#Testes-realizados)
-
-🔹 [Banco de Dados](/README.md#Banco-de-Dados)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
-🔹 [Novos Recursos](/README.md#Novos-Recursos)
-
 🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
-
-🔹 [Recursos inseridos](/README.md#Recursos-de-inseridos)
-
-🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
-
-🔹 [Informações Extras](/README.md#Informações-Extras)
 
 🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
@@ -49,6 +31,9 @@
 
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
+
+## Distribuição
+O jogo será distribuido na Steam e Google Play.
 
 ## Linguagens, dependências e libs utilizadas 📚
 Unity
