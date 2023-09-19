@@ -50,68 +50,35 @@
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
-## Funcionalidades ⚙️
-✔️ Funcionalidade 1
-
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
-
-## Distribuição
-Link para teste da versão disponibilizada.
-
-## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-
-## Como rodar a aplicação 
-Após baixar a aplicação, abrir o arquivo '.exe'
-
-## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
-
 ## Linguagens, dependências e libs utilizadas 📚
 Unity
 C#
-Trello
 
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 Adobe Photoshop
 Krita
+Trello
 
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
-## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
-
-## Desenvolvedores/Contribuintes:
-Arthur Atsushi Inoue Iwata<br>
-Daniel Hikaru Hiratuka Kato<br>
-Gabriela Aline Sanches dos Santos<br>
-Guilherme Alexandre de Almeida<br>
-Henrique Miranda Carvalho
-
 ## Definição do gênero
-Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia.
+Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia, Minigames.
 
 ## Mecânicas principais
-O Jogador pode pular, pulo duplo, agachar, correr, soltar uma bola de fogo com um certo power up(incerto) e ir para as 4 direções dentro do caminho definido (não é mundo aberto).
+As mecânicas serão diferentes para cada fase.<br>
+
+Parque:
+Movimentação e interação.
+
+Fantasma da Desmotivação:
+Pular e escolher direção do pulo.
+
+Sombra da insegurança:
+Andar, abrir baús e portas.
 
 ## Descrição da história do jogo (breve)
+Boku é um personagem único em busca de descobrir quem ele realmente é. Em sua busca pelo autoconhecimento, ele se encontra em Psicolândia, um reino interior cheio de desafios mentais, enigmas psicológicos e maravilhas introspectivas.
 
 ## Diferencial do jogo projetado em relação aos jogos da concorrência
 Puzzle híbrido, jogabilidade diversificada e temas da psicologia.
@@ -126,10 +93,25 @@ Público alvo: 13-21.
 <br>Classificação Indicativa: E10.
 
 ## Equipe necessária para o desenvolvimento e implementação
-
+Arthur Atsushi Inoue Iwata - Game Designer<br>
+Daniel Hikaru Hiratuka Kato - Sound Designer<br>
+Gabriela Aline Sanches dos Santos - Animador<br>
+Guilherme Alexandre de Almeida - Desenhista e Roteirista<br>
+Henrique Miranda Carvalho - Programador<br>
+Daniel Domingos Akira de Sá Pimentel Ohata - Orientador
 
 ## Previsão de cronograma e orçamento do projeto
+### Cronograma
+High Concept - 20/09
+Artigo Científico - 20/09
+Apresentação da Ideia - 20/09
 
+### Orçamento
+100 horas - Documentação<br>
+120 horas - Roteiro<br>
+320 horas - Arte e Animação<br>
+100 horas - Música e Efeitos Sonoros<br>
+160 horas - Programação<br>
 
 ## Qual objetivo de desenvolvimento sustentável da ONU foi utilizado no projeto
 Objetivo 3: Saúde e Bem-estar - Meta 3.4, Nações Unidas: [...] promover a saúde mental e o bem-estar.
@@ -137,4 +119,4 @@ Objetivo 3: Saúde e Bem-estar - Meta 3.4, Nações Unidas: [...] promover a sa�
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Boku em Psicolândia
