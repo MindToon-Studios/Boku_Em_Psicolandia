@@ -33,11 +33,17 @@ Puzzle, Plataforma, Aventura, Minijogos, Um Jogador, Fantasia, Indie, RPG, Boa T
 O jogador deverá explorar o parque de diversões e completar desafios para conseguir carimbos e liberar o acesso a floresta.
 Cada atração do parque terá um minigame diferente.
 
-Fantasma da Desmotivação:
+### Nuvem da Incerteza
+O jogador deverá clicar e interagir com as coisas, tentando resolver os puzzles.
+
+### Fantasma da Desmotivação
 O jogador deverá escolher a direção do pulo e sua intensidade para continuar subindo na torre até chegar ao topo.
 
-Sombra da insegurança:
+### Sombra da Insegurança
 O jogador deverá explorar o labirinto e achar a saída.
+
+### Quimera da Dúvida
+O jogador deverá escolher a carta com o elemento que vence a carta escolhida pela quimera.
 
 ## Descrição da história do jogo (breve)
 Boku é um personagem único em busca de descobrir quem ele realmente é. Em sua busca pelo autoconhecimento, ele se encontra em Psicolândia, um reino interior cheio de desafios mentais, enigmas psicológicos e maravilhas introspectivas.
