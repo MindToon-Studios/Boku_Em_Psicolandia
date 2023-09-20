@@ -106,7 +106,7 @@ Guilherme Alexandre de Almeida<br>
 Henrique Miranda Carvalho
 
 ## Definição do gênero
-Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia, Minigames.
+Puzzle, Plataforma, Aventura, Minijogos, Um Jogador, Fantasia, Indie, RPG, Boa Trama.
 
 ## Mecânicas principais
 As mecânicas serão diferentes para cada fase.<br>
