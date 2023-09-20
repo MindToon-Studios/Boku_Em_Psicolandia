@@ -5,11 +5,29 @@
 ## Tópicos
 🔹 [Descrição do projeto](/README.md#Descrição-do-projeto)
 
+🔹 [Funcionalidades](/README.md#Funcionalidades-%EF%B8%8F)
+
 🔹 [Distribuição](/README.md#Distribuição)
+
+🔹 [Pré-requisitos](/README.md#Pré-requisitos-%EF%B8%8F)
+
+🔹 [Como rodar a aplicação](/README.md#Como-rodar-a-aplicação)
+
+🔹 [Testes realizados](/README.md#Testes-realizados)
+
+🔹 [Banco de Dados](/README.md#Banco-de-Dados)
 
 🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
 
+🔹 [Novos Recursos](/README.md#Novos-Recursos)
+
 🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
+
+🔹 [Recursos inseridos](/README.md#Recursos-de-inseridos)
+
+🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
+
+🔹 [Informações Extras](/README.md#Informações-Extras)
 
 🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
@@ -32,8 +50,32 @@
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
+## Funcionalidades ⚙️
+✔️ Funcionalidade 1
+
+✔️ Funcionalidade 2
+
+✔️ Funcionalidade 3
+
+✔️ Funcionalidade 4
+
 ## Distribuição
 O jogo será distribuido na Steam e Google Play.
+
+## Pré-requisitos ⚠️    
+Versão do Android; 
+SDK; 
+Aparelho utilizado para testes.
+- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+
+## Como rodar a aplicação 
+Após baixar a aplicação, abrir o arquivo '.exe'
+
+## Testes realizados
+Utilização de imagens e descrição do que foi testado.
+
+## Banco de Dados 🗂️
+Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc)
 
 ## Linguagens, dependências e libs utilizadas 📚
 Unity
@@ -46,6 +88,22 @@ Trello
 
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+
+## Recursos de inseridos 🧰
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
+
+📝 Tarefa 1
+
+📝 Tarefa 2
+
+📝 Tarefa 3
+
+## Desenvolvedores/Contribuintes:
+Arthur Atsushi Inoue Iwata<br>
+Daniel Hikaru Hiratuka Kato<br>
+Gabriela Aline Sanches dos Santos<br>
+Guilherme Alexandre de Almeida<br>
+Henrique Miranda Carvalho
 
 ## Definição do gênero
 Puzzle, RPG, Aventura, Parkour, Um Jogador, Fantasia, Minigames.
