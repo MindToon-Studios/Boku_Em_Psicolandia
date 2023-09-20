@@ -5,30 +5,6 @@
 ## Tópicos
 🔹 [Descrição do projeto](/README.md#Descrição-do-projeto)
 
-🔹 [Funcionalidades](/README.md#Funcionalidades-%EF%B8%8F)
-
-🔹 [Distribuição](/README.md#Distribuição)
-
-🔹 [Pré-requisitos](/README.md#Pré-requisitos-%EF%B8%8F)
-
-🔹 [Como rodar a aplicação](/README.md#Como-rodar-a-aplicação)
-
-🔹 [Testes realizados](/README.md#Testes-realizados)
-
-🔹 [Banco de Dados](/README.md#Banco-de-Dados)
-
-🔹 [Linguagens, dependências e libs utilizadas](/README.md#linguagens-dependências-e-libs-utilizadas)
-
-🔹 [Novos Recursos](/README.md#Novos-Recursos)
-
-🔹 [Resolvendo problemas](/README.md#Resolvendo-problemas)
-
-🔹 [Recursos inseridos](/README.md#Recursos-de-inseridos)
-
-🔹 [Desenvolvedores/Contribuintes](/README.md#Desenvolvedores/Contribuintes)
-
-🔹 [Informações Extras](/README.md#Informações-Extras)
-
 🔹 [Definição do gênero](/README.md#Definição-do-gênero)
 
 🔹 [Mecânicas principais](/README.md#Mecânicas-principais)
@@ -50,69 +26,18 @@
 ## Descrição do projeto
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
-## Funcionalidades ⚙️
-✔️ Modo campanha
-
-## Distribuição
-O jogo será distribuido na Steam e Google Play.
-
-## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-
-## Como rodar a aplicação 
-Após baixar a aplicação, abrir o arquivo '.exe'
-
-## Testes realizados
-Utilização de imagens e descrição do que foi testado.
-
-## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc)
-
-## Linguagens, dependências e libs utilizadas 📚
-Unity
-C#
-
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
-Adobe Photoshop
-Krita
-Trello
-
-## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
-## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
-
-## Desenvolvedores/Contribuintes:
-Arthur Atsushi Inoue Iwata<br>
-Daniel Hikaru Hiratuka Kato<br>
-Gabriela Aline Sanches dos Santos<br>
-Guilherme Alexandre de Almeida<br>
-Henrique Miranda Carvalho
-
 ## Definição do gênero
 Puzzle, Plataforma, Aventura, Minijogos, Um Jogador, Fantasia, Indie, RPG, Boa Trama.
 
 ## Mecânicas principais
-As mecânicas serão diferentes para cada fase.<br>
-
-Parque:
-Movimentação e interação.
+O jogador deverá explorar o parque de diversões e completar desafios para conseguir carimbos e liberar o acesso a floresta.
+Cada atração do parque terá um minigame diferente.
 
 Fantasma da Desmotivação:
-Pular e escolher direção do pulo.
+O jogador deverá escolher a direção do pulo e sua intensidade para continuar subindo na torre até chegar ao topo.
 
 Sombra da insegurança:
-Andar, abrir baús e portas.
+O jogador deverá explorar o labirinto e achar a saída.
 
 ## Descrição da história do jogo (breve)
 Boku é um personagem único em busca de descobrir quem ele realmente é. Em sua busca pelo autoconhecimento, ele se encontra em Psicolândia, um reino interior cheio de desafios mentais, enigmas psicológicos e maravilhas introspectivas.
