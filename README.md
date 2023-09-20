@@ -51,7 +51,7 @@ SO: Windows 7 para cima e Android.
 <br>Publicação em: Play Store, Steam.
 
 ## O público alvo e sua classificação indicativa permitida
-Público alvo: 13-21.
+Público alvo: Pessoas que gostam de uma boa história, pessoas que se sentem sozinhas, pessoas que as vezes passam por sentimentos que nem mesmo elas entendem.
 <br>Classificação Indicativa: E10.
 
 ## Equipe necessária para o desenvolvimento e implementação
