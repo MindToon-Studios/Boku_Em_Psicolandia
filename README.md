@@ -87,9 +87,23 @@ Daniel Domingos Akira de Sá Pimentel Ohata - Orientador
 
 ## Previsão de cronograma e orçamento do projeto
 ### Cronograma
-High Concept - 20/09<br>
-Artigo Científico - 20/09<br>
-Apresentação da Ideia - 20/09<br>
+10 Ago - Definição da equipe<br>
+16 Ago - Definição do tema do projeto<br>
+23 Ago - Reunião com psicólogas<br>
+23 Ago - Brainstorm de ideias<br>
+27 Ago - Criação do high concept<br>
+30 Ago - Rascunho das primerias fases<br>
+ 6 Ago - Elaboração do readme<br>
+ 8 Ago - Elaboreação do gdd<br>
+13 Set - Desenvolvimento do protótipo<br>
+14 Set - Elaboração do artigo científico<br>
+20 Set - Apresentação prévia do projeto<br>
+23 Set - Início da criação de artes finais<br>
+27 Set - Início do desenvolvimento do jogo<br>
+ 4 Out - Desenvolvimento da fase "parque de diversões"<br>
+14 Nov - Fase de testes<br>
+29 Nov - Entrega Final<br>
+30 Nov - Apresentação Final<br>
 
 ### Orçamento
 100 horas - Documentação<br>
