@@ -51,13 +51,7 @@
 Boku em Psicolândia é um jogo 2D que te imerge na mente de Boku, onde ele passa por diversos desafios para entender a si mesmo e os outros.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
-
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+✔️ Modo campanha
 
 ## Distribuição
 O jogo será distribuido na Steam e Google Play.
